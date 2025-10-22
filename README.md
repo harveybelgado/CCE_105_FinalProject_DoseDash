@@ -1,2 +1,3 @@
-# CCE_105_FinalProject_DoseDash
-this is the src code for the pharmacy system named "DoseDash"
+DoseDash is a robust Pharmacy Prescription Transaction Manager designed to modernize and streamline pharmacy operations. Built in Java, it automates the entire lifecycle of a prescription—from validation and dispensing to inventory management and payment processing.
+
+By leveraging efficient algorithms like Balanced Trees for expiry date tracking and Min-Heaps for real-time stock alerts, DoseDash ensures accuracy, enhances patient safety, and boosts operational efficiency. The system provides a secure, reliable platform for pharmacists, patients, and admins, reducing manual errors and enabling faster, error-free transactions.
